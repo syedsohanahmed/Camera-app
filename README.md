@@ -1,16 +1,37 @@
-# camera_app
+<p align="center">
+    <img src="https://github.com/Jay-Tillu/Camera-app/blob/master/assets/GitHub%20assets/logo.png?raw=true" alt="Camera app logo" width="120" height="120">
+  </a>
+</p>
 
-A new Flutter application.
+<h3 align="center">Camera app</h3>
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
+<p align="center">
+  <img src="https://img.shields.io/github/issues/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/forks/Jay-Tillu/Xylophone">
+  <img src="https://img.shields.io/github/stars/Jay-Tillu/Xylophone">
+</p>
 
-A few resources to get you started if this is your first Flutter project:
+<p align="center">
+Simple camera app in flutter.
+</p>
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+## Learnings
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+* How to access native platform camera on both iOS and Android.
+* How to access storage on both android and iOS.
+
+## Screenshots
+
+<p align="center">
+  <img src="https://github.com/Jay-Tillu/Camera-app/blob/master/assets/GitHub%20assets/camera%20app%20gif.gif?raw=true">
+</p>
+
+## Plugins
+
+* image_picker -- ^0.6.1+4
+
+## Technologies
+
+* Flutter -- version 1.12.13+hotfix.5
+* Dart -- version 2.7.0
